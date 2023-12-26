@@ -1,0 +1,2 @@
+get apt install - basic commands
+apt - advanced package too. install and mange application on ubuntu/debian.

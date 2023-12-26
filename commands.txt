@@ -1,0 +1,21 @@
+pwd - present working directory
+ls - list the files
+ls -l = list files with details
+ls -a = show hidden files
+ls -ltr = with sort reverse order
+cd - change directory
+cd .. - go to previous directory till root
+cd ~ = jump to home directory
+mkdir - create folder
+rmdir - remove folder
+cat - create, open and combine
+vi - default editor
+vim - advanced version of vi
+cp - copy the files
+mv - move the files
+
+Adding git commands
+
+git add - tell git to track which file
+git diff - to find the diff b/w old and new file which is on track list by git
+git commit - commit the final changes
