@@ -1,6 +1,6 @@
 pwd - present working directory
 ls - list the files
-ls -l = list files with details
+ls -l = display files in long listing format
 ls -a = show hidden files
 ls -ltr = with sort reverse order
 cd - change directory
