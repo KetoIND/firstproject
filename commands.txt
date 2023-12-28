@@ -21,3 +21,6 @@ git diff - to find the diff b/w old and new file which is on track list by git
 git commit - commit the final changes
 git status - track/view changes
 git remote add origin
+
+---------
+added  - mc1
